@@ -1,0 +1,88 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.contenitore{
+    min-width: 1171px;
+    min-height: 138px;
+    margin: 0 150px;
+}
+
+.logo{
+    background-color: white;
+    width: 195px;
+    height: 81px;
+}
+.txt-hd{
+    display: inline-block;
+    padding-top: 40px;
+    padding-left: 3px;
+    color: gray;
+}
+.blocco-iniziale{
+    min-width: 1168px;
+    min-height: 491px;
+    margin: 37px 150px;
+    background-image: url(img/banner.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    /* opacity:  black 1; */
+}
+.text-1{
+    position: relative;
+    color: white;
+    width: 581px;
+    height: 122px;
+    position: absolute;
+    top: 70%;
+    left: 15%;
+}
+.blocco-centrale{
+    min-width: 1168px;
+    min-height: 670px;
+    margin: 37px 150px;
+    position: relative;
+}
+.title{
+    color: black;
+}
+.text-2{
+    color: grey;
+    padding-left: 5px;
+}
+.divisore-left{
+    width: 25%;
+    height: 547px;
+    float: left;
+}
+.divisore-right{
+        width: 25%;
+        height: 547px;
+        position: absolute;
+        right: 0;
+        bottom: -6%;
+        
+        
+}
+.img-3{
+    width: 300px;
+    height: 300px;
+}
+.divisore-centrale{
+    width: 50%;
+    height: 547px;
+}
+.img-3{
+    width: 500px;
+    height: 300px;
+}
+
+
+.blocco-finale{
+    min-width: 1168px;
+    min-height: 65px;
+    margin: 37px 150px;
+    text-align: center;
+}
+span{
+    color: red;}
